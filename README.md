@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-🎓 B.Tech CSE Student at Delhi Technological University (DTU)
+🎓 B.Tech SE Student at Delhi Technological University (DTU)
 
 💻 Passionate about building modern web applications
 
