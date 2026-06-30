@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - 📚 Data Structures & Algorithms
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
-- ⚡ Competitive Programming
+- ⚡ Competitive Progr
 
 ---
 
